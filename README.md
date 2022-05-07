@@ -18,8 +18,8 @@ Following directories should be created
 <br>
 
 ## Dataset
-* XSum
-using https://github.com/EdinburghNLP/XSum dataset or download [preporcessed data](https://github.com/yixinL7/BRIO)
+* <strong>XSum</strong>
+using https://github.com/EdinburghNLP/XSum dataset or download [preprocessed data](https://github.com/yixinL7/BRIO)
 <br>
 
 ## How to Run
